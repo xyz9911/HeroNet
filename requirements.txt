@@ -1,0 +1,10 @@
+absl-py==1.0.0
+datasets==1.18.3
+huggingface-hub==0.2.1
+nltk
+rouge-score==0.0.4
+sacrebleu==1.5.1
+sentencepiece==0.1.95
+tokenizers==0.10.3
+torch==1.12.1
+transformers==4.12.3
